@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshita Gupta</h1>
-<h3 align="center">IT Engineering Student | Frontend + Backend Learner</h3> | Chatbot Developer 
+<h3 align="center">IT Engineering Student | Frontend + Backend Learner | Chatbot Developer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250" />
@@ -30,10 +30,39 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🧰 Tech Stack
+
+### 🖥️ Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,java,python,c,cpp,git,github,androidstudio,arduino,linux,mysql,postgres,nodejs&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
 </p>
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="45" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" />
+</p>
+
+### 🔧 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" />
+</p>
+
+### ⚙️ Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" />
+</p>
+
 
 ---
 
@@ -45,12 +74,6 @@
 
 ---
 
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshita2211&theme=tokyonight" />
-</p>
-
----
 
 ## 📈 Activity Graph  
 <p align="center">
@@ -59,12 +82,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Harshita2211/Harshita2211/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
----
 
 ## ✨ Fun Developer Art  
 <p align="center">
