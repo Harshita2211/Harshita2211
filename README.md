@@ -20,11 +20,14 @@
 <a href="https://linkedin.com/in/harshita-gupta-247774334" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
-<a href="mailto:guptaharshita979@gmail.com">
+<a href="guptaharshita979@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ea4335?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://github.com/Harshita2211" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge"/>
+</a>
+  <a href="https://twitter.com/Harshiiiii22" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
 </a>
 </p>
 
