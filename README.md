@@ -70,13 +70,7 @@
 
 ---
 
-##  GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshita2211&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita2211&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
----
 
 
 ## Activity Graph  
