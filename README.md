@@ -22,7 +22,7 @@ I am a passionate **IT Engineering student** who loves turning complex problems 
 
 ---
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 
 | **Category** | **Resources** |
 | :--- | :--- |
