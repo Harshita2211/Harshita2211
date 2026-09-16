@@ -1,11 +1,13 @@
 <h1 align="center">✨ Harshita Gupta ✨</h1>
-<p align="center">
-  <b>Full-Stack Software Engineer | Generative AI Evangelist | Open Source Contributor</b>
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=IT+Engineering+Student;Full+Stack+Web+Developer;Gemini+Ambassador;Open+Source+Collaborator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=IT+Engineering+Student;Full+Stack+Web+Developer;Open+Source+Collaborator" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk1ODg2MjUsIm5iZiI6MTc4OTU4ODMyNSwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE2VDE5NTIwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjNjBlZmYzZmRlODI5MjYyOTU4NzJlNmUzYzA4ZjAyNzIwYmNjOTcwNWE5ZDgwMmY1OWU2NWQ1YTUzMWMzZjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.hWaifg_T6u4GuJMJxuFJ3yutMDq_NL_ygs3_2Yv3ayQ" width="100%" />
+</p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Harshita2211?label=Followers&style=for-the-badge&color=36BCF7&logo=github" />
