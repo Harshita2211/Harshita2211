@@ -60,9 +60,9 @@ Key software architectures built to solve targeted technical and user problems:
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Harshita2211&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Harshita2211&theme=tokyonight&hide_border=true" width="98.5%" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
