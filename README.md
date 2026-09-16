@@ -53,14 +53,21 @@ Key software architectures built to solve targeted technical and user problems:
 * 🗃️ **Student Database Management System** – A heavy CRUD application engineered with **Node.js** and **PostgreSQL** optimizing relational data manipulation and operational integrity.
 
 ---
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Analytics</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshita2211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita2211&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Harshita2211&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Harshita's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Harshita2211&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshita2211&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=Harshita2211&theme=tokyonight&hide_border=true" width="98.5%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshita2211&theme=tokyonight&hide_border=true" width="98.5%" alt="GitHub Streak" />
+  </a>
 </p>
 
 
