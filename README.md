@@ -61,11 +61,6 @@ Key software architectures built to solve targeted technical and user problems:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshita2211&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
----
-
-### 🏆 Key Achievements & Open Source
-* 💻 **Google "Big Code" Qualifier** – Successfully competed and advanced through the rigorous algorithmic qualifier stages.
-* ✨ **Open Source Contributor** – Active contributor to open software documentation and codebases, including verified pull requests to projects like `CL4R1T4S`.
 
 ---
 
@@ -84,18 +79,7 @@ Key software architectures built to solve targeted technical and user problems:
 
 ---
 
-## 🏛️ Leadership & Ecosystem Impact
 
-I believe engineering impact extends past the IDE. I actively dedicate my time to growing communities, driving technological literacy, and facilitating institutional pathways:
-
-```💡 Community Matrix
-├── 🤖 Google Gemini Student Ambassador (2026 Cohort)
-│   └── Mission: Spearheading tech events, leading GenAI workshops (e.g., Gemini Canvas), and democratizing AI architectures.
-└── 👔 Training & Placement (T&P) Student Coordinator
-    └── Mission: Directing corporate outreach, managing high-stakes drive pipelines, and preparing cohorts for industry transition.
-```
-
----
 
 ### ⚡ Fun Facts
 - ☕ I convert complex system requirements into seamless production builds (and yes, coffee helps).
